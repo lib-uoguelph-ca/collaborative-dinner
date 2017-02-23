@@ -1,7 +1,7 @@
 # Dish Name
 ---
 
-![Dish Image](/images/dish.jpg)
+![Dish Image](/Images/dish.jpg)
 
 Caprese salad (Italian: Insalata Caprese [insaˈlaːta kaˈpreːze], meaning "Salad of Capri") is a simple Italian salad, made of sliced fresh mozzarella (ideally Buffalo mozzarella), tomatoes, and green basil, seasoned with salt and olive oil.
 

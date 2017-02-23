@@ -1,5 +1,5 @@
 # Name
-![Name](/images/chef-profile.png)
+![Name](/Images/chef-profile.png)
 
 ## Inspiration / Quote
 
@@ -13,5 +13,5 @@
 
 ## Name's dishes
 
-* [Dish Template](/courses/DishTemplate.md)
-* [Dish Template](/courses/DishTemplate.md)
+* [Dish Template](/Courses/DishTemplate.md)
+* [Dish Template](/Courses/DishTemplate.md)
